@@ -1,3 +1,44 @@
+# Hello! Welcome to my GitHub Page!
+_______________________________________
+
+## About me!
+
+My name is Wayne and I am an aspiring Cyber Security Professional with 6 years of study. I am a passionate learner of Cyber Security. Here is my story....
+
+I graduated with honors from Highschool back in 2017 and I had NO idea what I wanted to do with my life. I took a gap year from college and just explored the job Market. In 2018, I attended Ball State University and was in their Criminal Justice Bachelors program. I knew that's not what I wanted to do for the rest of my life. I dropped out of College at this time and just worked. 
+
+In 2020, My buddy and I worked for the Election board of the city we live in. He knew I liked anything tech related and he introduced me to the realm of Cyber Security. I fell in love with the field. During Covid, I attended Eleven fifty, a cyber security boot camp and I ended up getting my Sec+ in Oct of 2021. 
+
+Since getting into this field, I have become a passionate learner of everything Cyber Security. I took the google certified in Cyber Security course and finished it within the 7 day trial period. I bought a book to study for the CISSP as well. 👉🏼 Gerald Auger, Ph.D. and Josh Madakor are the two I started watching and learning from on YouTube. 
+
+Since getting this certification though, I have been working as a Tier 2 Support Engineer for Tek Experts, working with Azure and assisting Microsoft customers with any issues they may be encountering within the Authentication team. Don't get me wrong, I love the workplace, all the people I work with are amazing but its not what I want to do for the rest of my life. I want to get into Cyber Security.
+
+I start my journey at WGU to get my BS in Cyber Security and Information Assurance on July 1st 2024. My end goal is to either join a SOC, or work my way into becoming a Pentester. 
+
+I look forward to getting into the world of Cyber Security 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 layout: default
 ---
