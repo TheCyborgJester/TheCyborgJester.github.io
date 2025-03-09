@@ -16,6 +16,8 @@ I start my journey at WGU to get my BS in Cyber Security and Information Assuran
 
 I look forward to getting into the world of Cyber Security 
 
+I am hoping to Connect with everyone! Feel free to connect with me on LinkedIn - [LinkedIn]([./another-page.html](https://www.linkedin.com/in/richard-english-iii))
+
 
 
 
