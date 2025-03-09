@@ -52,6 +52,11 @@ _This will be updated as I take place with the results I get_
 
 ______________________________________________________________________________________________________________________________________________________________
 
+# Python Projects!
+
+## Learning Python for Automated tasks in Cyber Security!
+
+I will continuously add code here as I learn and Make more blocks for automating anything Cyber Security Related! For now, Hello World!
 
 ```python
 
