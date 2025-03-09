@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 In my time working for a vendor for Microsoft. It has given me different opportunities to learn all about Microsoft Azure. From the on-premise part of the Sync Engine to everything Device related, how to join to Azure, How to set up Windows Hello for Business (WHFB) etc. I took advantage of the test environment given to me by Microsoft and set up my own Personal SIEM within Azure. 
 
-_Plan on uploading Youtube Video in the future for this project!_ [YouTube Project Video](https://www.youtu.be/rsWQDXtabsQ)
+_Plan on uploading Youtube Video in the future for this project!_ [YouTube Project Video](https://www.youtube.com/watch?v=rsWQDXtabsQ)
 ____________________________________________________________________________________________________________________________________________________________
 
 # Project 2
