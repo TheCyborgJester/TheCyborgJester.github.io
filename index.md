@@ -17,11 +17,13 @@ I am hoping to Connect with everyone! Feel free to connect with me on LinkedIn -
 # Education
 
 Western Governors University - Bachelors in Cyber Security and Information Security
+
 _July 2024 - Present_
 
 # Work Experience
 
 Tier 2 Security Compliance and Identity Mangement Engineer
+
 _July 2022 - Present_
 
 ### Details
