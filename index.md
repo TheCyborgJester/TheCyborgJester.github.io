@@ -3,22 +3,36 @@ ________________________________________________________________________________
 
 # About me!
 
-My name is Wayne and I am an aspiring Cyber Security Professional with 6 years of study. I am a passionate learner of Cyber Security. Here is my story....
+Passionate Cyber Security Learner with 5 years experience of Learning
 
-I graduated with honors from Highschool back in 2017 and I had NO idea what I wanted to do with my life. I took a gap year from college and just explored the job Market. In 2018, I attended Ball State University and was in their Criminal Justice Bachelors program. I knew that's not what I wanted to do for the rest of my life. I dropped out of College at this time and just worked. 
+## Certifications
 
-In 2020, My buddy and I worked for the Election board of the city we live in. He knew I liked anything tech related and he introduced me to the realm of Cyber Security. I fell in love with the field. During Covid, I attended Eleven fifty, a cyber security boot camp and I ended up getting my Sec+ in Oct of 2021. 
-
-Since getting into this field, I have become a passionate learner of everything Cyber Security. I took the Google certified in Cyber Security course and finished it within the 7 day trial period. I bought a book to study for the CISSP as well. Gerald Auger, Ph.D. has been a huge source of information so I started watching and learning from YouTube. 
-
-Since getting this certification though, I have been working as a Tier 2 Security Compliance and Identity Management Engineer for Tek Experts, working with Azure and assisting Microsoft customers with any issues they may be encountering within the Authentication team. Don't get me wrong, I love the workplace, all the people I work with are amazing but its not what I want to do for the rest of my life. I want to get into Cyber Security.
-
-I start my journey at WGU to get my BS in Cyber Security and Information Assurance on July 1st 2024. My end goal is to either become a SOC analyst and possibly, later in my career, move towards a role in Pentesting! 
-
-I look forward to getting into the world of Cyber Security 
+CompTia Security+
+AZ-900 - Azure Fundamentals
 
 I am hoping to Connect with everyone! Feel free to connect with me on LinkedIn - [LinkedIn](https://www.linkedin.com/in/richard-english-iii)
 ___________________________________________________________________________________________________________________________________________________________
+
+# Education
+
+Western Governors University - Bachelors in Cyber Security and Information Security
+_July 2024 - Present_
+____________________________________________________________________________________________________________________________________________________________
+# Work Experience
+
+Tier 2 Security Compliance and Identity Mangement Engineer
+_July 2022 - Present_
+
+### Details
+- Collaborate with a team of engineers to troubleshoot and resolve customer issues
+- Specialize in authentication for applications, MFA, Active Directory Federation Services, and device registration issues
+- Reviewed logs due to security incidents of customers, recommended Security practices such as Conditional Access Policies
+- Used PowerShell to repro issues customers may be experiencing 
+- Demonstrated excellent communication skills in dealing with customers and maintaining positive relationships
+- Leveraged time management and problem-solving abilities in a fast-paced break-fix environment
+- Followed Entra’s Governance, compliance and reporting to identify risks within customer environment 
+
+_____________________________________________________________________________________________________________________________________________________________
 
 # Project 1
 
