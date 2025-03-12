@@ -8,6 +8,7 @@ Passionate Cyber Security Learner with 5 years experience of Learning
 ## Certifications
 
 CompTia Security+
+
 AZ-900 - Azure Fundamentals
 
 I am hoping to Connect with everyone! Feel free to connect with me on LinkedIn - [LinkedIn](https://www.linkedin.com/in/richard-english-iii)
@@ -41,6 +42,7 @@ ________________________________________________________________________________
 In my time working for a vendor for Microsoft. It has given me different opportunities to learn all about Microsoft Azure. From the on-premise part of the Sync Engine to everything Device related, how to join to Azure, How to set up Windows Hello for Business (WHFB) etc. I took advantage of the test environment given to me by Microsoft and set up my own Personal SIEM within Azure. 
 
  [YouTube Project Video](https://www.youtube.com/watch?v=rsWQDXtabsQ)
+ 
 ____________________________________________________________________________________________________________________________________________________________
 
 # Project 2
