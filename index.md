@@ -16,7 +16,7 @@ I am hoping to Connect with everyone! Feel free to connect with me on LinkedIn -
 
 # Education
 
-Western Governors University - Bachelors in Cyber Security and Information Security
+Western Governors University - Bachelors in Cyber Security and Information Assurance
 
 _July 2024 - Present_
 
