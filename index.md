@@ -1,5 +1,5 @@
 # Hello! Welcome to my GitHub Page!
-___________________________________________________________________________________________________________________________________________________________
+
 
 # About me!
 
@@ -12,13 +12,13 @@ CompTia Security+
 AZ-900 - Azure Fundamentals
 
 I am hoping to Connect with everyone! Feel free to connect with me on LinkedIn - [LinkedIn](https://www.linkedin.com/in/richard-english-iii)
-___________________________________________________________________________________________________________________________________________________________
+
 
 # Education
 
 Western Governors University - Bachelors in Cyber Security and Information Security
 _July 2024 - Present_
-____________________________________________________________________________________________________________________________________________________________
+
 # Work Experience
 
 Tier 2 Security Compliance and Identity Mangement Engineer
@@ -33,7 +33,7 @@ _July 2022 - Present_
 - Leveraged time management and problem-solving abilities in a fast-paced break-fix environment
 - Followed Entra’s Governance, compliance and reporting to identify risks within customer environment 
 
-_____________________________________________________________________________________________________________________________________________________________
+
 
 # Project 1
 
@@ -43,7 +43,7 @@ In my time working for a vendor for Microsoft. It has given me different opportu
 
  [YouTube Project Video](https://www.youtube.com/watch?v=rsWQDXtabsQ)
  
-____________________________________________________________________________________________________________________________________________________________
+
 
 # Project 2
 
@@ -66,7 +66,6 @@ I am looking forward to taking place in this competiton in April of 2025!
 
 _This will be updated as I take place with the results I get_
 
-______________________________________________________________________________________________________________________________________________________________
 
 # Python Projects!
 
