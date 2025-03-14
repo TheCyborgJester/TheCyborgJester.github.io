@@ -1,3 +1,4 @@
+---
 # Socials below!
 
 [LinkedIn](https://www.linkedin.com/in/richard-english-iii)
@@ -5,7 +6,7 @@
 [GitHub](https://github.com/TheCyborgJester)
 
 [Twitter / X](https://x.com/CyborgJesterSEC)
-
+---
 # About me!
 
 I've been diving into the world of cybersecurity since 2019, constantly expanding my knowledge and honing my skills. As a lifelong learner, I enjoy tackling new challenges, whether it's analyzing threats, improving security measures, or exploring the latest developments in the field.
