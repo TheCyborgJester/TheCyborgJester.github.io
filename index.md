@@ -3,7 +3,7 @@
 
 # About me!
 
-Passionate Cyber Security Learner with 5 years experience of Learning
+Cyber Security Learner with 5 years experience of Learning and growing my knowledge.
 
 ## Certifications
 
@@ -27,7 +27,7 @@ Tier 2 Security Compliance and Identity Mangement Engineer
 _July 2022 - Present_
 
 ### Details
-- Collaborate with a team of engineers to troubleshoot and resolve customer issues
+- Collaborate with a team of engineers to troubleshoot and resolve customer issues in Entra ID / Azure
 - Specialize in authentication for applications, MFA, Active Directory Federation Services, and device registration issues
 - Reviewed logs due to security incidents of customers, recommended Security practices such as Conditional Access Policies
 - Used PowerShell to repro issues customers may be experiencing 
@@ -35,7 +35,12 @@ _July 2022 - Present_
 - Leveraged time management and problem-solving abilities in a fast-paced break-fix environment
 - Followed Entra’s Governance, compliance and reporting to identify risks within customer environment 
 
+# Technical Abilities
 
+- Well versed in Windows and Linux
+- Strong Reseach and Log Analysis Skills
+- Incident Handling
+- Microsoft Entra ID / Azure Cloud resources
 
 # Project 1
 
