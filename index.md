@@ -44,7 +44,7 @@ _July 2022 - Present_
 
 # Technical Abilities
 
-- Well versed in Windows and Linux
+- Well versed in Windows, Windows Servers and Linux with some Mac Experience
 - Strong Reseach and Log Analysis Skills
 - Incident Handling
 - Microsoft Entra ID / Azure Cloud resources
