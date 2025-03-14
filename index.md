@@ -5,7 +5,7 @@
 
 I've been diving into the world of cybersecurity since 2019, constantly expanding my knowledge and honing my skills. As a lifelong learner, I enjoy tackling new challenges, whether it's analyzing threats, improving security measures, or exploring the latest developments in the field.
 
-I'm currently seeking a role as a SOC Analyst, where I can apply my skills in threat detection, incident response, and security operations to help safeguard organizations. When I’m not hands-on with security tools, I’m staying informed by listening to cybersecurity podcasts like *_Darknet Diaries_* and *_CyberWire Daily_*, always looking to absorb new insights from industry experts.
+I'm currently seeking a role as a SOC Analyst, where I can apply my skills in threat detection, incident response, and security operations to help safeguard organizations. When I’m not hands-on with security tools, I’m staying informed by listening to cybersecurity podcasts like **_Darknet Diaries_** and **_CyberWire Daily_**, always looking to absorb new insights from industry experts.
 
 Outside of cybersecurity, you'll find me gaming, coding, and always looking for something new to learn. Most importantly, I'm a proud father to a wonderful one-year-old, which keeps me motivated and always striving to be better—both professionally and personally.
 
