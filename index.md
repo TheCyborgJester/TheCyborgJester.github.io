@@ -1,5 +1,10 @@
-# Hello! Welcome to my GitHub Page!
+# Socials below!
 
+[LinkedIn](https://www.linkedin.com/in/richard-english-iii)
+
+[GitHub](https://github.com/TheCyborgJester)
+
+[Twitter / X](https://x.com/CyborgJesterSEC)
 
 # About me!
 
@@ -14,8 +19,6 @@ Outside of cybersecurity, you'll find me gaming, coding, and always looking for 
 CompTia Security+
 
 AZ-900 - Azure Fundamentals
-
-I am hoping to Connect with everyone! Feel free to connect with me on LinkedIn - [LinkedIn](https://www.linkedin.com/in/richard-english-iii)
 
 
 # Education
