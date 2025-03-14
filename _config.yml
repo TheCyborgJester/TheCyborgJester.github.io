@@ -2,4 +2,5 @@ title: My Cyber Security Portfolio
 description: A place for all my Cyber Security projects and Python code!
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
+# jekyll-theme-hacker
