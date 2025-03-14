@@ -1,3 +1,5 @@
+---
+
 # Socials below!
 
 [LinkedIn](https://www.linkedin.com/in/richard-english-iii)
@@ -5,6 +7,8 @@
 [GitHub](https://github.com/TheCyborgJester)
 
 [Twitter / X](https://x.com/CyborgJesterSEC)
+
+---
 
 # About me!
 
