@@ -33,7 +33,7 @@ _July 2024 - Present_
 
 _July 2022 - Present_
 
-### Details
+##### Details
 - Collaborate with a team of engineers to troubleshoot and resolve customer issues in Entra ID / Azure
 - Specialize in authentication for applications, MFA, Active Directory Federation Services, and device registration issues
 - Reviewed logs due to security incidents of customers, recommended Security practices such as Conditional Access Policies
@@ -51,7 +51,7 @@ _July 2022 - Present_
 
 # Project 1
 
-## Microsoft Azure SIEM
+##### Microsoft Azure SIEM
 
 In my time working for a vendor for Microsoft. It has given me different opportunities to learn all about Microsoft Azure. From the on-premise part of the Sync Engine to everything Device related, how to join to Azure, How to set up Windows Hello for Business (WHFB) etc. I took advantage of the test environment given to me by Microsoft and set up my own Personal SIEM within Azure. 
 
@@ -61,7 +61,7 @@ In my time working for a vendor for Microsoft. It has given me different opportu
 
 # Project 2
 
-## National Cyber League Competition
+##### National Cyber League Competition
 
 National Cyber League is a National Competition. I am participating with my college, WGU. Its a 4 day long competition with 2 days being individual competition, and 2 days being team competition. We will be competing in a Capture the Flag type of competition. The Competition consists of the following -
 
