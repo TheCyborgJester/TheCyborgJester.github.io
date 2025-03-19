@@ -87,8 +87,76 @@ _This will be updated as I take place with the results I get_
 
 I will continuously add code here as I learn and Make more blocks for automating anything Cyber Security Related! For now, Hello World!
 
+
 ```python
 
 print("Hello World")
 
 ```
+
+Code used for Log Analysis in Gym for NCL
+
+```python
+```python
+# Run pip install pyshark
+
+import pyshark 
+
+# Load the pcap file
+pcap_file = "/home/stealthy/Desktop/WireSharks/Candump.pcap" #Change to where you saved it
+
+can = pyshark.FileCapture(pcap_file)
+
+id_list = []
+
+count_id_589 = 0
+
+max_speed = 0.00
+
+# Question 1
+for packet in can:
+    #print(packet)
+    #print("___________________________")
+    #print(packet.layers)
+    #print("__________________")
+    #print(packet.can.field_names)
+
+    #appending ID to empty list
+
+    id_list.append(packet.can.id)
+
+    # Counting IDs for 589
+    if packet.can.id == '589':
+        count_id_589 += 1
+        # Calculating the speed
+        packet_speed = 0
+
+        #print(packet.data.field_names)
+        # print(packet.data.data_data) # this is the speed value but only interested in first last 2 fields
+
+        # print(packet.data.data_data.split(sep=":"))
+        for position, value in enumerate(packet.data.data_data.split(sep=":")):
+            #print(f'{position}:{value}')
+            if position == 3:
+                packet_speed += int(value, 16) << 8 # Converts from hexadecimal to decimal
+            if position ==4:
+                packet_speed += int(value, 16) # Converts from hexadecimal to decimal
+        packet_speed /= 100
+        #print(packet_speed)
+        if packet_speed > max_speed:
+            max_speed = packet_speed
+
+
+    #break
+
+unique_ids = set(id_list)
+
+# print(id_list)
+
+print(f'Question 1: there are {len(unique_ids)} unique IDs in the pcap file')
+
+print(f'Question 2: ID 589 appears {count_id_589} speed update packets')
+
+print(f'Question 3: The maximum speed is {round(max_speed * 0.6213751, 2)} in mph')
+```
+
