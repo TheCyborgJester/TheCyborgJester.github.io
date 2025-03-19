@@ -97,7 +97,6 @@ print("Hello World")
 Code used for Log Analysis in Gym for NCL
 
 ```python
-```python
 # Run pip install pyshark
 
 import pyshark 
