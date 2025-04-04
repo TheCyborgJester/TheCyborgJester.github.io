@@ -28,6 +28,7 @@ Outside of cybersecurity, you'll find me gaming, coding, and always looking for 
 _July 2024 - Present_
 
 # Work Experience
+
 **IU Health Network**
 
 **`Security Analyst and Junior Penetration Tester`**
@@ -35,6 +36,9 @@ _July 2024 - Present_
 _April 2025 - Present_
 
 ##### Details
+- _Coming Soon_
+- _Coming Soon_
+- _Coming Soon_
 
 
 **Tek Experts (Now Teknowledge)**
