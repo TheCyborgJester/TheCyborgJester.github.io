@@ -28,7 +28,7 @@ Outside of cybersecurity, you'll find me gaming, coding, and always looking for 
 _July 2024 - Present_
 
 # Work Experience
-**IU Health**
+**IU Health Network**
 
 **`Security Analyst and Junior Penetration Tester`**
 
