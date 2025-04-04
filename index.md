@@ -28,11 +28,20 @@ Outside of cybersecurity, you'll find me gaming, coding, and always looking for 
 _July 2024 - Present_
 
 # Work Experience
+**IU Health**
+
+**`Security Analyst and Junior Penetration Tester`**
+
+_April 2025 - Present_
+
+##### Details
+
+
 **Tek Experts (Now Teknowledge)**
 
 **`Tier 2 Security Compliance and Identity Mangement Engineer`**
 
-_July 2022 - Present_
+_July 2022 - April 2025_
 
 ##### Details
 - Collaborate with a team of engineers to troubleshoot and resolve customer issues in Entra ID / Azure
