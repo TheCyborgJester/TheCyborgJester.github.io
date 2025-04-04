@@ -29,6 +29,7 @@ _July 2024 - Present_
 
 # Work Experience
 **Tek Experts (Now Teknowledge)**
+
 **`Tier 2 Security Compliance and Identity Mangement Engineer`**
 
 _July 2022 - Present_
