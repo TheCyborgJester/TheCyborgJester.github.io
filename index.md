@@ -48,13 +48,13 @@ _April 2025 - Present_
 _July 2022 - April 2025_
 
 ##### Details
-- Collaborate with a team of engineers to troubleshoot and resolve customer issues in Entra ID / Azure
-- Specialize in authentication for applications, MFA, Active Directory Federation Services, and device registration issues
-- Reviewed logs due to security incidents of customers, recommended Security practices such as Conditional Access Policies
-- Used PowerShell to repro issues customers may be experiencing 
-- Demonstrated excellent communication skills in dealing with customers and maintaining positive relationships
+- Collaborated with a team of engineers to troubleshoot and resolve customer issues in Entra ID / Azure
+- Specialized in authentication for applications, MFA, Active Directory Federation Services, Windows Hello for Buisness and device registration issues
+- Reviewed logs due to security incidents of customers, recommended Security practices such as Conditional Access Policies and educated customers about the Shared Responsibility of Security in the Cloud
+- Used PowerShell to repro issues customers may be experiencing and implemented fixes before recommending to the customer
+- Demonstrated excellent communication skills in dealing with customers and maintaining positive relationships with multiple 5 star surveys from customers
 - Leveraged time management and problem-solving abilities in a fast-paced break-fix environment
-- Followed Entra’s Governance, compliance and reporting to identify risks within customer environment 
+- Followed Entra’s Governance, compliance and reporting to identify risks within customer environment and assist in mitigating
 
 # Technical Abilities
 
