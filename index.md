@@ -62,6 +62,7 @@ _July 2022 - April 2025_
 - Strong Reseach and Log Analysis Skills
 - Incident Handling
 - Microsoft Entra ID / Azure Cloud resources
+- Technical Writing
 
 # Project 1
 
