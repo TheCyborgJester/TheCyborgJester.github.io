@@ -31,14 +31,14 @@ _July 2024 - Present_
 
 **IU Health Network**
 
-**`Security Analyst and Junior Penetration Tester`**
+**`Offensive Security Analyst`**
 
 _April 2025 - Present_
 
 ##### Details
-- _Coming Soon_
-- _Coming Soon_
-- _Coming Soon_
+- Threat hunting using tools such as Crowdstrike and Recorded Future
+- Investigate possibly Malicious domains and Sandbox them to confirm if malicious and needs blocked or not
+- Security testing the network and worked closely with blue team in a Purple team setting weekly.
 
 
 **Tek Experts (Now Teknowledge)**
