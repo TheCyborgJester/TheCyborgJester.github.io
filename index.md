@@ -36,9 +36,21 @@ _July 2024 - Present_
 _April 2025 - Present_
 
 ##### Details
-- Threat hunting using tools such as Crowdstrike and Recorded Future
-- Investigate possibly Malicious domains and Sandbox them to confirm if malicious and needs blocked or not
+- Threat hunting using tools such as Crowdstrike, Recorded Future, Health-ISAC Cyware, and Rapid7
+- Use Recorded Future to Investigate possibly Malicious domains and Sandbox them to confirm if malicious and needs blocked or not
 - Security testing the network and worked closely with blue team in a Purple team setting weekly.
+- Used Azure/Entra ID and Microsoft Defender in the Cloud to Block domains, and look over quarentined Emails to confirm if the email is phishing
+- Used Microsoft Purview to apply Legal holds on accounts if needed per HIPPA, the Privacy, and legal team
+- Used tools such as Abnormal AI and Vailmail as automated Email Quarentining
+- Used software for medical device security such as xDome
+- Collaborate during incidents with the Blue team to finish our Incident Response checklist
+
+- Threat hunting Applications - Crowdstrike, Recorded Future and Health-ISAC Cyware
+- Incident Response Applications - Microsoft Defender and Crowdstrike Alerts using Sharepoint to follow IR Checklist
+- Domain Blocking Applications - Microsoft Defender, Cisco Umbrella, and Palo Alto
+- Web Security Applications - Acunetix
+- Medical Device Security Applications - xDome
+- Automation tools used - Crowdstrike on prem application, Abnormal AI, and Vailmail
 
 
 **Tek Experts (Now Teknowledge)**
