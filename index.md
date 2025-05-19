@@ -45,7 +45,7 @@ _April 2025 - Present_
 - Used software for medical device security such as xDome
 - Collaborate during incidents with the Blue team to finish our Incident Response checklist
 
-- Threat hunting Applications - Crowdstrike, Recorded Future and Health-ISAC Cyware
+- Threat hunting Applications - Crowdstrike, Recorded Future, Cisco Talos Intelligence and Health-ISAC Cyware
 - Incident Response Applications - Microsoft Defender and Crowdstrike Alerts using Sharepoint to follow IR Checklist
 - Domain Blocking Applications - Microsoft Defender, Cisco Umbrella, and Palo Alto
 - Web Security Applications - Acunetix
