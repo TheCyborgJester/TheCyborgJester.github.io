@@ -44,6 +44,7 @@ _April 2025 - Present_
 - Used tools such as Abnormal AI and Vailmail as automated Email Quarentining
 - Used software for medical device security such as xDome
 - Collaborate during incidents with the Blue team to finish our Incident Response checklist
+- used our forensics lab to look into breached machines and to confrim found items such as SD cards and USBs are not malicious
 
 - Threat hunting Applications - Crowdstrike, Recorded Future, Cisco Talos Intelligence and Health-ISAC Cyware
 - Incident Response Applications - Microsoft Defender and Crowdstrike Alerts using Sharepoint to follow IR Checklist
