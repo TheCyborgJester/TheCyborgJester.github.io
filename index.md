@@ -35,23 +35,39 @@ _July 2024 - Present_
 
 _April 2025 - Present_
 
-##### Details
-- Threat hunting using tools such as Crowdstrike, Recorded Future, Health-ISAC Cyware, and Rapid7
-- Use Recorded Future to Investigate possibly Malicious domains and Sandbox them to confirm if malicious and needs blocked or not
-- Security testing the network and worked closely with blue team in a Purple team setting weekly.
-- Used Azure/Entra ID and Microsoft Defender in the Cloud to Block domains, and look over quarentined Emails to confirm if the email is phishing
-- Used Microsoft Purview to apply Legal holds on accounts if needed per HIPPA, the Privacy, and legal team
-- Used tools such as Abnormal AI and Vailmail as automated Email Quarentining
-- Used software for medical device security such as xDome
-- Collaborate during incidents with the Blue team to finish our Incident Response checklist
-- used our forensics lab to look into breached machines and to confrim found items such as SD cards and USBs are not malicious
+##### Key Responsibilities & Tools Used:
 
-- Threat hunting Applications - Crowdstrike, Recorded Future, Cisco Talos Intelligence and Health-ISAC Cyware
-- Incident Response Applications - Microsoft Defender and Crowdstrike Alerts using Sharepoint to follow IR Checklist
-- Domain Blocking Applications - Microsoft Defender, Cisco Umbrella, and Palo Alto
-- Web Security Applications - Acunetix
-- Medical Device Security Applications - xDome
-- Automation tools used - Crowdstrike on prem application, Abnormal AI, and Vailmail
+- Conducted proactive threat hunting using tools such as CrowdStrike, Recorded Future, Health-ISAC Cyware, and Rapid7.
+
+- Investigated potentially malicious domains via Recorded Future, sandboxed suspicious domains, and determined whether to escalate for blocking.
+
+- Performed regular security testing and collaborated with the Blue Team in a weekly Purple Team exercise.
+
+- Utilized Azure/Entra ID and Microsoft Defender for Cloud to block domains and review quarantined emails to confirm phishing attempts.
+
+- Applied legal holds using Microsoft Purview in accordance with HIPAA requirements and guidance from Privacy and Legal teams.
+
+- Employed Abnormal Security and Valimail for automated email quarantining and threat detection.
+
+- Used xDome for securing medical devices across the network.
+
+- Worked collaboratively with the Blue Team during incident response, completing the internal IR checklist.
+
+- Performed forensic analysis in the lab to examine breached machines and assess removable media (e.g., USB drives, SD cards) for malicious content.
+
+#### Security Tools by Function:
+
+Threat Hunting: CrowdStrike, Recorded Future, Cisco Talos Intelligence, Health-ISAC Cyware
+
+Incident Response: Microsoft Defender, CrowdStrike Alerts, SharePoint (for IR checklist tracking)
+
+Domain Blocking: Microsoft Defender, Cisco Umbrella, Palo Alto
+
+Web Security: Acunetix
+
+Medical Device Security: xDome
+
+Automation: CrowdStrike on-prem, Abnormal Security, Valimail
 
 
 **Tek Experts (Now Teknowledge)**
