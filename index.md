@@ -37,7 +37,7 @@ _April 2025 - Present_
 
 ##### Key Responsibilities & Tools Used:
 
-- Conducted proactive threat hunting using tools such as CrowdStrike, Recorded Future, Health-ISAC Cyware, and Rapid7.
+- Conducted proactive threat hunting using tools such as CrowdStrike, Recorded Future, Health-ISAC Cyware, Panorama and Rapid7.
 
 - Investigated potentially malicious domains via Recorded Future, sandboxed suspicious domains, and determined whether to escalate for blocking.
 
@@ -57,11 +57,11 @@ _April 2025 - Present_
 
 #### Security Tools by Function:
 
-Threat Hunting: CrowdStrike, Recorded Future, Cisco Talos Intelligence, Health-ISAC Cyware
+Threat Hunting: CrowdStrike, Recorded Future, Cisco Talos Intelligence, Health-ISAC Cyware, Palo Alto Panorama
 
 Incident Response: Microsoft Defender, CrowdStrike Alerts, SharePoint (for IR checklist tracking)
 
-Domain Blocking: Microsoft Defender, Cisco Umbrella, Palo Alto
+Domain Blocking: Microsoft Defender, Cisco Umbrella, Palo Alto Panorama
 
 Web Security: Acunetix
 
