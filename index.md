@@ -31,7 +31,7 @@ _July 2024 - Present_
 
 **IU Health Network**
 
-**`Offensive Security Analyst`**
+**`Junior Offensive Security Analyst`**
 
 _April 2025 - Present_
 
