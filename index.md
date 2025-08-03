@@ -16,6 +16,8 @@ Outside of cybersecurity, you'll find me gaming, coding, and always looking for 
 
 ## Certifications
 
+**CompTia A+**
+
 **CompTia Security+**
 
 **AZ-900 - Azure Fundamentals**
