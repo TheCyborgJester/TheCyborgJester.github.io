@@ -20,6 +20,8 @@ Outside of cybersecurity, you'll find me gaming, coding, and always looking for 
 
 **CompTia Security+**
 
+**LPI Linux Essentials**
+
 **AZ-900 - Azure Fundamentals**
 
 
