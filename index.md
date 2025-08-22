@@ -143,9 +143,7 @@ National Cyber League is a National Competition. I am participating with my coll
 * Wireless Access Exploitation
 * Enumeration & Exploitation
 
-I am looking forward to taking place in this competiton in April of 2025! 
-
-_This will be updated as I take place with the results I get_
+At the end of the two days of solo competition, I received a place of 386/8200 - Since it was top 500 I got the challenge Coin!
 
 
 # Python Projects!
