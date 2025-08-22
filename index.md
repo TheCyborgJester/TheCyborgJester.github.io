@@ -41,31 +41,31 @@ _April 2025 - Present_
 
 ##### Key Responsibilities & Tools Used:
 
-Penetration Testing - Test Web applications, APIs, Mobile Applications, and cloud security to find culnerabilities and seurity misconfigurations before attackers do. This also includes coordinating with third-party vendors for penetration tests at IU Health.
+- Penetration Testing - Test Web applications, APIs, Mobile Applications, and cloud security to find culnerabilities and seurity misconfigurations before attackers do. This also includes coordinating with third-party vendors for penetration tests at IU Health.
 
-Digital Forensics - Perform forensic imaging and analysis of compromised devices and user accounts to gain insights from real-world security incidents
+- Digital Forensics - Perform forensic imaging and analysis of compromised devices and user accounts to gain insights from real-world security incidents
 
-Threat Hunting - Proactively search for potential cyber threats inside IU Health's network and systems
+- Threat Hunting - Proactively search for potential cyber threats inside IU Health's network and systems
 
-Threat Intelligence - Gather and analyze data on known threats to improve security measures and preemptively protect IU Health
+- Threat Intelligence - Gather and analyze data on known threats to improve security measures and preemptively protect IU Health
 
-Medical Device Security Testing - Security testing is conducted against medical devices in a simulated environment to identify vulnerabilities
+- Medical Device Security Testing - Security testing is conducted against medical devices in a simulated environment to identify vulnerabilities
 
-Security Incident Response - Assist with detecting, containing, and recovering from Cybersecurity threats, breaches, and attacks
+- Security Incident Response - Assist with detecting, containing, and recovering from Cybersecurity threats, breaches, and attacks
 
-Legal Searchs and Holds - Manage legal search and holds via Microsoft Purview (eDiscovery) to help IU Health with legal investigations, litigation, and regulatory requests
+- Legal Searchs and Holds - Manage legal search and holds via Microsoft Purview (eDiscovery) to help IU Health with legal investigations, litigation, and regulatory requests
 
-Policy exceptions and Approvals - Handle Cherwell tickets around 3rd party ITRA exceptions, workstation/Cerner timeout exceptions, Menlo (Browser Isolation) Exceptions, and other miscellaneous approvals/review
+- Policy exceptions and Approvals - Handle Cherwell tickets around 3rd party ITRA exceptions, workstation/Cerner timeout exceptions, Menlo (Browser Isolation) Exceptions, and other miscellaneous approvals/review
 
-Domain Management - Maintain and secure IU Health domains - including domain registrations, DNS configurations, security monitoring, and brand protection
+- Domain Management - Maintain and secure IU Health domains - including domain registrations, DNS configurations, security monitoring, and brand protection
 
-Purple Team Excercises - Perform collaboratibe attack simulations where the Offensive Security team works together with the cyber security operations team to test and assess IU Health's exostomg security defenses.
+- Purple Team Excercises - Perform collaboratibe attack simulations where the Offensive Security team works together with the cyber security operations team to test and assess IU Health's exostomg security defenses.
 
-Security Architecture - Provide guidance with the design of systems, policies, and technologies that work together to protect digital assets from threats, breaches and vulnerabilities.
+- Security Architecture - Provide guidance with the design of systems, policies, and technologies that work together to protect digital assets from threats, breaches and vulnerabilities.
 
-Security Research - Investigate and analyse systems, software, and networks to uncover vulnerabilities, understand threats, and improve cybersecurity defenses.
+- Security Research - Investigate and analyse systems, software, and networks to uncover vulnerabilities, understand threats, and improve cybersecurity defenses.
 
-Email Security - Configure and monitor email security applications - including day-to-day email traffic, phishing emails, quarentined emails, security policies, account takeover, alerts, etc.
+- Email Security - Configure and monitor email security applications - including day-to-day email traffic, phishing emails, quarentined emails, security policies, account takeover, alerts, etc.
 
 #### Security Tools by Function:
 
