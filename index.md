@@ -70,16 +70,27 @@ Email Security - Configure and monitor email security applications - including d
 #### Security Tools by Function:
 
 CrowdStrike - Admin Certified from CrowdStrike University
+
 Recorded Future
+
 Microsoft Purview, Defender, and Azure
+
 Abnormal AI - Email Security Application
+
 Valimail
+
 Rapid7
+
 Acunetix
+
 Corellium
+
 Panorama Palo Alto
+
 xDome
+
 H-ISAC
+
 AttackForge
 
 **Tek Experts (Now Teknowledge)**
