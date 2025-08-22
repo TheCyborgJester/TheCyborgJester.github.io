@@ -41,6 +41,8 @@ _April 2025 - Present_
 
 ##### Key Responsibilities & Tools Used:
 
+- Offensive Security team engagement (OSTE) - conduct yearly security engagements that simulate real-world attacks and adversary tactics to uncover vulnerabilities with IU Health's systems, networks, and processes
+
 - Penetration Testing - Test Web applications, APIs, Mobile Applications, and cloud security to find culnerabilities and seurity misconfigurations before attackers do. This also includes coordinating with third-party vendors for penetration tests at IU Health.
 
 - Digital Forensics - Perform forensic imaging and analysis of compromised devices and user accounts to gain insights from real-world security incidents
@@ -66,6 +68,8 @@ _April 2025 - Present_
 - Security Research - Investigate and analyse systems, software, and networks to uncover vulnerabilities, understand threats, and improve cybersecurity defenses.
 
 - Email Security - Configure and monitor email security applications - including day-to-day email traffic, phishing emails, quarentined emails, security policies, account takeover, alerts, etc.
+
+- P2Sentinel Audit Reports - Securly search, export, and send patient Electronic Medical Record (EMR) system audit reports from P2Sentinel for Investigations
 
 #### Security Tools by Function:
 
