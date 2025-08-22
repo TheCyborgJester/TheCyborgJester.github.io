@@ -41,38 +41,46 @@ _April 2025 - Present_
 
 ##### Key Responsibilities & Tools Used:
 
-- Conducted proactive threat hunting using tools such as CrowdStrike, Recorded Future, Health-ISAC Cyware, Panorama and Rapid7.
+Penetration Testing - Test Web applications, APIs, Mobile Applications, and cloud security to find culnerabilities and seurity misconfigurations before attackers do. This also includes coordinating with third-party vendors for penetration tests at IU Health.
 
-- Investigated potentially malicious domains via Recorded Future, sandboxed suspicious domains, and determined whether to escalate for blocking.
+Digital Forensics - Perform forensic imaging and analysis of compromised devices and user accounts to gain insights from real-world security incidents
 
-- Performed regular security testing and collaborated with the Blue Team in a weekly Purple Team exercise.
+Threat Hunting - Proactively search for potential cyber threats inside IU Health's network and systems
 
-- Utilized Azure/Entra ID and Microsoft Defender for Cloud to block domains and review quarantined emails to confirm phishing attempts.
+Threat Intelligence - Gather and analyze data on known threats to improve security measures and preemptively protect IU Health
 
-- Applied legal holds using Microsoft Purview in accordance with HIPAA requirements and guidance from Privacy and Legal teams.
+Medical Device Security Testing - Security testing is conducted against medical devices in a simulated environment to identify vulnerabilities
 
-- Employed Abnormal Security and Valimail for automated email quarantining and threat detection.
+Security Incident Response - Assist with detecting, containing, and recovering from Cybersecurity threats, breaches, and attacks
 
-- Used xDome for securing medical devices across the network.
+Legal Searchs and Holds - Manage legal search and holds via Microsoft Purview (eDiscovery) to help IU Health with legal investigations, litigation, and regulatory requests
 
-- Worked collaboratively with the Blue Team during incident response, completing the internal IR checklist.
+Policy exceptions and Approvals - Handle Cherwell tickets around 3rd party ITRA exceptions, workstation/Cerner timeout exceptions, Menlo (Browser Isolation) Exceptions, and other miscellaneous approvals/review
 
-- Performed forensic analysis in the lab to examine breached machines and assess removable media (e.g., USB drives, SD cards) for malicious content.
+Domain Management - Maintain and secure IU Health domains - including domain registrations, DNS configurations, security monitoring, and brand protection
+
+Purple Team Excercises - Perform collaboratibe attack simulations where the Offensive Security team works together with the cyber security operations team to test and assess IU Health's exostomg security defenses.
+
+Security Architecture - Provide guidance with the design of systems, policies, and technologies that work together to protect digital assets from threats, breaches and vulnerabilities.
+
+Security Research - Investigate and analyse systems, software, and networks to uncover vulnerabilities, understand threats, and improve cybersecurity defenses.
+
+Email Security - Configure and monitor email security applications - including day-to-day email traffic, phishing emails, quarentined emails, security policies, account takeover, alerts, etc.
 
 #### Security Tools by Function:
 
-Threat Hunting: CrowdStrike, Recorded Future, Cisco Talos Intelligence, Health-ISAC Cyware, Palo Alto Panorama
-
-Incident Response: Microsoft Defender, CrowdStrike Alerts, SharePoint (for IR checklist tracking)
-
-Domain Blocking: Microsoft Defender, Cisco Umbrella, Palo Alto Panorama
-
-Web Security: Acunetix
-
-Medical Device Security: xDome
-
-Automation: CrowdStrike on-prem, Abnormal Security, Valimail
-
+CrowdStrike - Admin Certified from CrowdStrike University
+Recorded Future
+Microsoft Purview, Defender, and Azure
+Abnormal AI - Email Security Application
+Valimail
+Rapid7
+Acunetix
+Corellium
+Panorama Palo Alto
+xDome
+H-ISAC
+AttackForge
 
 **Tek Experts (Now Teknowledge)**
 
