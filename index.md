@@ -61,13 +61,13 @@ _April 2025 - Present_
 
 - Domain Management - Maintain and secure IU Health domains - including domain registrations, DNS configurations, security monitoring, and brand protection
 
-- Purple Team Excercises - Perform collaborative attack simulations where the Offensive Security team works together with the cyber security operations team to test and assess IU Health's exostomg security defenses.
+- Purple Team Exercises - Perform collaborative attack simulations where the Offensive Security team works together with the cyber security operations team to test and assess IU Health's existing security defenses.
 
 - Security Architecture - Provide guidance with the design of systems, policies, and technologies that work together to protect digital assets from threats, breaches and vulnerabilities.
 
 - Security Research - Investigate and analyze systems, software, and networks to uncover vulnerabilities, understand threats, and improve cybersecurity defenses.
 
-- Email Security - Configure and monitor email security applications - including day-to-day email traffic, phishing emails, quarentined emails, security policies, account takeover, alerts, etc.
+- Email Security - Configure and monitor email security applications - including day-to-day email traffic, phishing emails, quarantined emails, security policies, account takeover, alerts, etc.
 
 - P2Sentinel Audit Reports - Securely search, export, and send patient Electronic Medical Record (EMR) system audit reports from P2Sentinel for Investigations
 
